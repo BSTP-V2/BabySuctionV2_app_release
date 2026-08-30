@@ -1,4 +1,5 @@
 ## 📲 วิธีติดตั้ง (Installation)
 สำหรับผู้ใช้งานทั่วไป สามารถดาวน์โหลดไฟล์ติดตั้งได้ที่:
-1. ดาวน์โหลดไฟล์ `app-arm64-v8a-release.apk`
-2. ติดตั้งลงในมือถือ Android (รองรับ Samsung S9+ และรุ่นใหม่กว่า)
+
+👉 [ดาวน์โหลด APK ล่าสุดที่นี่](https://github.com/BSTP-V2/BabySuctionV2_app_release/releases/latest)
+
