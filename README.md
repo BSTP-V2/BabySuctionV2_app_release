@@ -1,6 +1,7 @@
 # Baby Suction Tracker Prototype Version2
 
-ระบบตรวจวัดและบันทึกแรงดูดสำหรับทารกแบบเรียลไทม์ผ่าน BLE
+
+<img width="1080" height="1721" alt="image" src="https://github.com/user-attachments/assets/7c44ecd4-a965-463f-9a2f-a3882203105c" />
 
 ---
 
