@@ -1,5 +1,13 @@
 # Baby Suction Tracker Prototype Version2
 
+ระบบวัดและประเมินแรงดูดทารกแรกเกิดแบบเรียลไทม์ผ่านการเชื่อมต่อไร้สาย (Flutter + ESP32)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![BLE](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
+
 ### Project Structure of Application
 
     application/
