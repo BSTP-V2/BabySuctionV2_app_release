@@ -8,7 +8,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
 
+---
 
+## 📦 Download & Installation
+
+สามารถดาวน์โหลดไฟล์ติดตั้งแอปพลิเคชัน (APK) สำหรับ Android เวอร์ชันล่าสุดได้ที่นี่:
+
+👉 **[ดาวน์โหลด Baby Suction Tracker v1.0.0 (Release)](https://github.com/BSTP-V2/BabySuctionV2_app_release/releases/tag/v1.0.0)**
+
+---
 
 ## 📸 Application Preview
 
