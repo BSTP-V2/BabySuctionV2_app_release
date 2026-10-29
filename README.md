@@ -201,5 +201,5 @@ application/
 
 | Role / Details      | Information                              |
 | :------------------ | :--------------------------------------- |
-| **Project Advisor** | ผศ.อนันท์ ทับเกิด (Asst. Prof. Anan Tubkeaw) |
+| **Project Advisor** | ผศ.อนันท์ ทับเกิด (Asst. Prof. Anan Tubkerd) |
 | **Institution**     | มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา (RMUTL)    |
